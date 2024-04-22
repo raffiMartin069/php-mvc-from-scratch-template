@@ -46,6 +46,3 @@ To run the tests, you typically use a test runner. For PHP projects, this is oft
 This command should be run from the root directory of your project. It will execute all the test cases in the tests/ directory.
 
 Remember, a well-tested application is a reliable application. Happy testing!
-
-# Time-Tracker
-# Time-Tracker
