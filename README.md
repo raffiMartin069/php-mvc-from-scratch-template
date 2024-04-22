@@ -53,6 +53,7 @@ Test files contain test cases. Each test case is a function that tests a specifi
 To run the tests, you typically use a test runner. For PHP projects, this is often PHPUnit. You can run the tests with the following command in your terminal:
 `./vendor/bin/phpunit`
 This command should be run from the root directory of your project. It will execute all the test cases in the tests/ directory.
+
 ![image](https://github.com/raffiMartin069/Time-Tracker/assets/125887013/67011ac0-1e83-4639-972a-84c770da95bd)
 
 Remember, a well-tested application is a reliable application. Happy testing!
