@@ -18,7 +18,7 @@
 <body>
 
   <div id="form-wrapper" class="d-flex align-items-center justify-content-center vh-100">
-    <form id="login-form" method="POST" action="/Time-Tracker/Connection/">
+    <form id="login-form" method="POST" action="#">
       <?php if (isset($error)) : ?>
         <p class="error"><?= htmlspecialchars($error) ?></p>
       <?php endif; ?>
